@@ -1,17 +1,17 @@
 body {
   padding: 0;
   margin: 0;
-  background: #f2f6e9;
+  background: #ffff;
 }
 /*--- navigation bar ---*/
 .navbar {
-  background:#6ab446;
+  background:#ffff;
   <header class="page-header header container-fluid">
 </header>
 }
 .nav-link,
 .navbar-brand {
-  color: #fff;
+  color: #d4af37;
   cursor: pointer;
 }
 .nav-link {
