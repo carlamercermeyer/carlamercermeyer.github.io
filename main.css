@@ -1,15 +1,15 @@
 body {
   padding: 0;
   margin: 0;
-  background: #ffffff;
+  background: #f2f6e9;
 }
 /*--- navigation bar ---*/
 .navbar {
-  background:#ffffff;
+  background:#6ab446;
 }
 .nav-link,
 .navbar-brand {
-  color: #d4af37;
+  color: #fff;
   cursor: pointer;
 }
 .nav-link {
