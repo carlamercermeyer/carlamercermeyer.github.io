@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>404 Page Not Found</title>
+</head>
+<body>
+  <h1>This Page Cannot Be Found<h1>
+  <h2>Please try again at another time!<h2>
+  <img src="https://cdn.dribbble.com/users/1196590/screenshots/4141792/dirrbblefin.gif"/>
+  <a href="./index.html">Click Here to Return to the Previous Page</a>
+</html>
