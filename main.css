@@ -6,6 +6,8 @@ body {
 /*--- navigation bar ---*/
 .navbar {
   background:#6ab446;
+  <header class="page-header header container-fluid">
+</header>
 }
 .nav-link,
 .navbar-brand {
